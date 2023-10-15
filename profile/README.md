@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Welcome to the <a href="https://networkx.org/">NetworkX</a>.
+  Welcome to the <a href="https://networkx.org/">NetworkX</a>!
 </p>
 
 NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. 
@@ -35,10 +35,13 @@ NetworkX provides:
 - A rapid development environment for collaborative, multidisciplinary projects,
 - The ability to painlessly slurp in large nonstandard data sets.
 
-## Code of Conduct
-
-NetworkX has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of Conduct, and we expect project participants to adhere to it. Please read [the full text](https://github.com/networkx/networkx/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ## Contributing
 
-We welcome all kinds of contributions! Please see our [`CONTRIBUTING.rst`](https://github.com/networkx/networkx/blob/main/CONTRIBUTING.rst) for the ways you can contribute.
+We welcome all kinds of contributions! Please see our [Contributor Guide](https://github.com/networkx/networkx/blob/main/CONTRIBUTING.rst) for the ways you can contribute.
+
+As a new contributor, you may want to check out the [New Contributor FAQ](https://networkx.org/documentation/latest/developer/new_contributor_faq.html) which answers frequently asked questions by newcomers to open-source development and first-time contributors to NetworkX.
+
+## Code of Conduct
+
+As an open souce project, we are always working on making our community safe. Please read [the full text](https://github.com/networkx/networkx/blob/main/CODE_OF_CONDUCT.md) so that you can understand what actions are expected.
